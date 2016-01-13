@@ -7,3 +7,4 @@ public class FloatTest
 		System.out.println(f);
 	}	
 }
+

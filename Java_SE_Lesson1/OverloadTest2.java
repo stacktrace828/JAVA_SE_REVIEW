@@ -19,5 +19,4 @@ public class OverloadTest2
 		test.method(1);
 		test.method(2);
 	}
-	
 }

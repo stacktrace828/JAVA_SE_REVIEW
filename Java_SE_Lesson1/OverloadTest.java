@@ -22,5 +22,4 @@ public class OverloadTest
 		System.out.println(result);
 		System.out.println(result2);
 	}
-
 }

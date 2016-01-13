@@ -47,6 +47,5 @@ public class People
 
 		System.out.println(people.age);
 
-
 	}
 }

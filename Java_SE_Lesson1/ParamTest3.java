@@ -25,7 +25,6 @@ public class ParamTest3
 
 }
 
-
 class Person
 {
 	String name;

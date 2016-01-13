@@ -23,3 +23,4 @@ class Dog extends Animal
 		super.run(); //调用父类的run方法
 	}
 }
+

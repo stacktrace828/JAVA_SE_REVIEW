@@ -16,10 +16,5 @@ public class ReferenceTest
 
 		System.out.println(rt2.a);
 
-		
-
-
-
-
 	}
 }

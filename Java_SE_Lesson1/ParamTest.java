@@ -25,3 +25,4 @@ class Point
 	int x; //ºá×ø±ê
 	int y; //×Ý×ø±ê
 }
+

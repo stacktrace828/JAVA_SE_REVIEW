@@ -19,3 +19,4 @@ class Apple extends Fruit
 {
 	String name = "apple";
 }
+

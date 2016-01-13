@@ -16,6 +16,5 @@ public class ConstructorOverload
 	{
 		ConstructorOverload col = new ConstructorOverload();
 
-
 	}
 }

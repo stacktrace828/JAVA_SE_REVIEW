@@ -13,6 +13,5 @@ public class ConstructorTest
 	{
 		ConstructorTest test = new ConstructorTest();
 
-
 	}
 }
